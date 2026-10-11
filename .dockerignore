@@ -1,0 +1,7 @@
+dump.sql
+__pycache__
+*.pyc
+.git
+
+
+run.sh
